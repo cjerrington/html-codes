@@ -1247,5 +1247,17 @@
 	{"symbol" : "ż","description" : "Small Z with dot above","entity" : "","decimal" : "&#380;","hex" : "&#x17C;"},
 	{"symbol" : "Ž","description" : "Capital Z with caron","entity" : "","decimal" : "&#381;","hex" : "&#x17D;"},
 	{"symbol" : "ž","description" : "Small Z with caron","entity" : "","decimal" : "&#382;","hex" : "&#x17E;"},
-	{"symbol" : "ſ","description" : "Small letter long S","entity" : "","decimal" : "&#383;","hex" : "&#x17F;"}
+	{"symbol" : "ſ","description" : "Small letter long S","entity" : "","decimal" : "&#383;","hex" : "&#x17F;"},
+	{"symbol":"♈", "description":"Aries", "entity":"", "decimal":"&#9800;", "hex":"&#x2648;"},
+	{"symbol":"♉", "description":"Taurus", "entity":"", "decimal":"&#9801;", "hex":"&#x2649;"},
+	{"symbol":"♊", "description":"Gemini", "entity":"", "decimal":"&#9802;", "hex":"&#x264A;"},
+	{"symbol":"♋", "description":"Cancer", "entity":"", "decimal":"&#9803;", "hex":"&#x264B;"},
+	{"symbol":"♌", "description":"Leo", "entity":"", "decimal":"&#9804;", "hex":"&#x264C;"},
+	{"symbol":"♍", "description":"Virgo", "entity":"", "decimal":"&#9805;", "hex":"&#x264D;"},
+	{"symbol":"♎", "description":"Libra", "entity":"", "decimal":"&#9806;", "hex":"&#x264E;"},
+	{"symbol":"♏", "description":"Scorpio", "entity":"", "decimal":"&#9807;", "hex":"&#x264F;"},
+	{"symbol":"♐", "description":"Sagittarius", "entity":"", "decimal":"&#9808;", "hex":"&#x2650;"},
+	{"symbol":"♑", "description":"Capricorn", "entity":"", "decimal":"&#9809;", "hex":"&#x2651;"},
+	{"symbol":"♒", "description":"Aquarius", "entity":"", "decimal":"&#9810;", "hex":"&#x2652;"},
+	{"symbol":"♓", "description":"Pisces", "entity":"", "decimal":"&#9811;", "hex":"&#x2653;"}
 ]
